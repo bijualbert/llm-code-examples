@@ -6,9 +6,7 @@
 
 ⚡️ You can subscribe to my Medium account to read articles about artificial intelligence, cloud computing, state-of-the-art technologies, and also audio engineering! Here is a link:
 
-[My Articles on Medium](https://medium.com/@olehch)
-
-🙌 This collection was created by Oleh Chaplia and is constantly updated.
+🙌 This collection is constantly updated.
 
 ## Table of Contents
 
